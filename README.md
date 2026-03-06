@@ -1,4 +1,4 @@
-#  Smart Expense Tracker (AI-Powered)
+#  Smart Expense Tracker (
 **Developed by Gaurav Yadav | B.Tech Computer Science & Engineering Student**
 
 ##  Learning Purpose
