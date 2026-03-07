@@ -13,10 +13,10 @@ This project was developed as a hands-on learning initiative to master modern An
 - **Concurrency:** Kotlin Coroutines & Flow (for real-time data updates)
 
 ##  Key Features Applied
-- ** Smart Input:** Uses Regex-based parsing to automatically detect categories like Travel (Uber/Ola), Online Delivery (Swiggy/Zomato), and Transactions (Human names) from a single text string.
-- **Data Persistence:** Integrated a Room Database Singleton to ensure expenses are saved on the disk and not lost after app restarts.
-- **Dynamic Filtering:** Implemented Calendar-based logic to auto-refresh the home screen view for the current month while maintaining historical records.
-- **Budget Monitoring:** Real-time tracking of Daily and Monthly limits with visual progress bars.
+- Smart Input:Uses Regex-based parsing to automatically detect categories like Travel (Uber/Ola), Online Delivery (Swiggy/Zomato), and Transactions (Human names) from a single text string.
+- Data Persistence:Integrated a Room Database Singleton to ensure expenses are saved on the disk and not lost after app restarts.
+- Dynamic Filtering:Implemented Calendar-based logic to auto-refresh the home screen view for the current month while maintaining historical records.
+- Budget Monitoring:Real-time tracking of Daily and Monthly limits with visual progress bars.
 
 ## Future Scope (Extra Features to Add)
 - **OCR Integration:** Using Google ML Kit to scan physical receipts and auto-fill expenses.
