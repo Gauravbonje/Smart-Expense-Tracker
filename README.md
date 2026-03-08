@@ -27,4 +27,3 @@ This project was developed as a hands-on learning initiative to master modern An
 ##  Download APK
 You can download and test the latest build of the app here:
 [Download app-debug.apk](app-debug.apk) 
-*(Note: Upload your app-debug.apk file to the root of your GitHub repository for this link to work)*
